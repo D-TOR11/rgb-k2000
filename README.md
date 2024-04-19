@@ -1,9 +1,9 @@
 ## RGB K2000
 RGB K2000 do the same things than the car K2000
 
--   pixel.py bla bla bla
--   k2000_long.py bla bla bla
--   k2000.py bla bla bla
+-   pixel.py
+-   k2000_long.py 
+-   k2000.py 
 
 
 ### Dependencies
