@@ -1,5 +1,6 @@
 ## RGB K2000
-it's a project with rgb and a raspberry PI 3B+ 
+it's a project a raspberry PI 3B+ and a Intelligent IC addressable LED strip, WS2812B 5050 RGBIC ordinary, 30 Pixels, 60 Pixels, 144 LED, m, light, DC 5V, 12V
+
 -   pixel.py do a speed rainbow 
 -   k2000_long.py do the same things than the car K2000
 -   k2000_short.py is a better version of k2000_long.py
