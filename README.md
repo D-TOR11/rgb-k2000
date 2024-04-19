@@ -1,9 +1,7 @@
 ## RGB K2000
-RGB K2000 do the same things than the car K2000
-
--   pixel.py
--   k2000_long.py 
--   k2000.py 
+-   pixel.py do a speed rainbow 
+-   k2000_long.py do the same things than the car K2000
+-   k2000_short.py is a better version of k2000_long.py
 
 
 ### Dependencies
